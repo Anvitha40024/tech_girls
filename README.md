@@ -4,7 +4,7 @@ A mini web project for the **Tech For Girls Community**.
 
 ### 🔗 Live Website
 [Click to View]( https://anvitha40024.github.io/tech_girls/)
-*(Replace with your actual GitHub Pages link)*
+
 
 ---
 
